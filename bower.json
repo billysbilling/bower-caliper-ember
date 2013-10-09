@@ -1,0 +1,17 @@
+{
+  "name": "bower-caliper-ember",
+  "version": "0.0.3",
+  "homepage": "https://github.com/billysbilling/bower-caliper-ember",
+  "authors": [
+    "Caliper"
+  ],
+  "main": "caliper.ember.min.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
